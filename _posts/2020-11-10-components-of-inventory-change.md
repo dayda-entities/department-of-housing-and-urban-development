@@ -1,7 +1,7 @@
 ---
-title: Components of Inventory Change (CINCH) reports 2007-2009
-created: '2020-11-10T16:31:08.342819'
-modified: '2020-11-10T16:31:08.342830'
+title: Components of Inventory Change (CINCH) Reports
+created: '2020-11-10T16:31:08.230902'
+modified: '2020-11-10T16:31:08.230913'
 state: active
 type: dataset
 tags:
@@ -14,8 +14,7 @@ tags:
   - Metorpolitian Survey
   - Rental Dynamics
 groups: []
-csv_url: >-
-  http://www.HUDuser.org/portal/datasets/cinch/cinch09/CINCH0709NationalASCIIData.zip
+csv_url: 'http://www.HUDuser.org/portal/datasets/cinch/cinch05/CINCH_2005_ASCII_Data.zip'
 json_url: ''
 layout: post
 
